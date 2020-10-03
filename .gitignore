@@ -1,0 +1,11 @@
+obj/*
+twoWindow.sln
+icon.rc
+twoWindow.sln
+twoWindow.vcxproj
+twoWindow.vcxproj.filters
+twoWindow.vcxproj.user
+.vs
+.git
+bin/*
+!bin/data
